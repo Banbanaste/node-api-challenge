@@ -1,5 +1,7 @@
 # Sprint Challenge: Express and Node.js - Projects & Actions
 
+# You will want to take the show-projects directory out of this directory in order to run the CRA it dosent run when within this project
+
 ## Description
 
 In this challenge, you design and create a web API to manage the following resources: `Projects` and `Actions`.
@@ -40,13 +42,25 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+# middle ware
+
+# server creation
+
 - [ ] Describe Middleware?
+
+# function or processes that get invoked while serving responses
 
 - [ ] Describe a Resource?
 
+# no idea
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+# statuses
+
 - [ ] How can we partition our application into sub-applications?
+
+# routing, helper functions
 
 ## Minimum Viable Product
 
